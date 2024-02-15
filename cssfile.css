@@ -1,0 +1,38 @@
+body {
+    background:whitesmoke;/ /* white smoke color*/
+    color: #ecf0f1; /* Set your desired text color */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+    'Lucida Sans Unicode'
+     Verdana, sans-serif, sans-serif;
+    
+}
+
+
+.rounded {
+    border-radius: 100%;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+#Rating {
+    font-size: 18px;
+}
+
+#Trailer {
+    margin-top: 20px;
+}
+
+#Summary {
+    margin-top: 20px;
+}
+
+#Actors {
+    list-style-type: none;
+    padding: 0;
+}
+
+#Actors li {
+    margin: 5px 0;
+}
